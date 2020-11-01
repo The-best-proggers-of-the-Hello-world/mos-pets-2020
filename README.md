@@ -1,4 +1,4 @@
 # hakaton-mos-animals
 Трек электронная база животных без владельцев
 
-![demo](https://prnt.sc/vb3f4q)
+![demo](https://github.com/The-best-proggers-of-the-Hello-world/mos-pets-2020/tree/master/assets/Sreenshot_4)
