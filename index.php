@@ -10,7 +10,7 @@
 <body>
 <div class="wrapper">
     <a href="/andrey/">тут тестится андрей</a>
-    <a href="/andrey/">тут ебашит костя</a>
+    <a href="/andrey/">тут тестится костя</a>
     <a href="/zooadmin/">тут вход админов</a>
     <a href="/login/">Вход</a>
 
